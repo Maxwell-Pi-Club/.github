@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img src="path/to/your/logo.png" alt="Maxwell-Pi Club Logo" width="200" />
 </p>
+-->
 
 # Maxwell-Pi Club
 
