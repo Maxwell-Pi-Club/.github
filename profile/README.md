@@ -6,7 +6,7 @@
 
 # Maxwell-Pi Club
 
-[![GitHub Followers](https://img.shields.io/github/followers/your_username?label=Follow&style=social)](https://github.com/your_username)
+[![GitHub Followers](https://img.shields.io/github/followers/Maxwell-Pi-Club?label=Follow&style=social)](https://github.com/your_username)
 [![Location](https://img.shields.io/badge/Location-Canada-red)](#)
 [![Contact](https://img.shields.io/badge/Contact-maxwellpi.club%40hotmail.com-blue)](mailto:maxwellpi.club@hotmail.com)
 
